@@ -1,3 +1,3 @@
-# linkedin_placeholder
+# GitHub Page
 
-Using this placeholder for projects undertaken during MDSI degree at UTS to be showcased on LinkedIn
+Testing out what GitHub Page is about...
